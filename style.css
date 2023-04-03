@@ -87,4 +87,5 @@ a{
   background: transparent;
   border: 1px solid cyan;
   color: blue;
+  transform: scale(1.2);
 }
